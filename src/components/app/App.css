@@ -1,0 +1,25 @@
+.App{
+  background-image:url('../../images/bg2.jpg');
+  background-size:cover;
+  height:100vh;
+}
+ul {
+  position:fixed;
+  top:0;
+  width:100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+float:left;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li:hover{
+  background-color:rgb(136,136,136);
+}

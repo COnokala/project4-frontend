@@ -1,0 +1,12 @@
+.Container{
+    background-image:url('../../images/bg.jpg');
+    background-size:cover;
+    position: relative;
+    top:100px;
+    padding:30px;
+    padding-bottom:75px;
+}
+
+body{
+ background:black;
+}
